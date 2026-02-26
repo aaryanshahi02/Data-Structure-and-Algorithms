@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
+## Database
+|  |
+| ------- |
+| [1321-restaurant-growth](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
