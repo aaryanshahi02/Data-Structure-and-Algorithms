@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
 ## Binary Search
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
