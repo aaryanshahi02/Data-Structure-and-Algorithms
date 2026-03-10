@@ -3,13 +3,13 @@ class Solution {
     class Dsu{
         vector<int> parent;
         vector<int> rank;
-        int components;
+        // int components;
 
         public:
         Dsu(int n){
             parent.resize(n);
             rank.resize(n, 0);
-            components = n;
+            // components = n;
 
             for(int i=0; i<n; i++){
                 parent[i] = i;
@@ -40,10 +40,11 @@ class Solution {
                 parent[pb] = pa;
                 rank[pa]++;
             }
-            components--;
-        }
-        int getComponents(){
-            return components;
+        //     components--;
+        // }
+        // int getComponents(){
+        //     return components;
+        // }
         }
     };
 
@@ -74,6 +75,11 @@ public:
                 }
             }
         }
-        return n - dsu.getComponents();
+        // return n - dsu.getComponents();
+        int count = 0;
+        for(int i=0; i<n; i++){
+            if(dsu.find(i) == i) count++;
+        }
+        return n-count;
     }
 };
