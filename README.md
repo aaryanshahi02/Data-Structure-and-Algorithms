@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
+| [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 ## Database
 |  |
 | ------- |
