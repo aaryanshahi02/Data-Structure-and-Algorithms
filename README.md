@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
@@ -103,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 ## Database
 |  |
@@ -118,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1321-restaurant-growth](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1393-capital-gainloss) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
