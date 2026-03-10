@@ -104,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [1193-monthly-transactions-i](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1193-monthly-transactions-i) |
 | [1321-restaurant-growth](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
