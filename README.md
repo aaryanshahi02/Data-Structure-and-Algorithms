@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0184-department-highest-salary) |
 | [1084-sales-analysis-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1084-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1193-monthly-transactions-i) |
