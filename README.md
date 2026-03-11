@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
 ## Heap (Priority Queue)
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
