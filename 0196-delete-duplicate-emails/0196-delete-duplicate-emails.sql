@@ -1,0 +1,6 @@
+WITH cte AS (
+ SELECT id, ROW_NUMBER() OVER(PARTITION BY email ORDER BY id) r
+ FROM Person
+)
+DELETE FROM Person
+WHERE id IN (SELECT id FROM cte WHERE r>1);
