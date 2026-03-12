@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -114,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
+| [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
+| [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 ## Database
 |  |
