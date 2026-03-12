@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
