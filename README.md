@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
+| [0875-koko-eating-bananas](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
