@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
@@ -186,4 +187,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
