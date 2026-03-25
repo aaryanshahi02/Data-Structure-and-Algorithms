@@ -1,10 +1,11 @@
 class UnionFind {
-    vector<int> parent, sz;
+    vector<int> parent, rank;
 public:
     UnionFind(int n) {
         parent.resize(n);
         iota(parent.begin(), parent.end(), 0);
-        sz.assign(n, 1);
+        
+        rank.assign(n, 0); 
     }
     
     int find(int i) {
@@ -14,10 +15,16 @@ public:
     bool unite(int i, int j) {
         int root_i = find(i);
         int root_j = find(j);
+        
         if (root_i != root_j) {
-            if (sz[root_i] < sz[root_j]) swap(root_i, root_j);
-            parent[root_j] = root_i;
-            sz[root_i] += sz[root_j];
+            if (rank[root_i] < rank[root_j]) {
+                parent[root_i] = root_j;
+            } else if (rank[root_i] > rank[root_j]) {
+                parent[root_j] = root_i;
+            } else {
+                parent[root_j] = root_i;
+                rank[root_i]++;
+            }
             return true;
         }
         return false;
