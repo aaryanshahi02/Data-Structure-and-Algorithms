@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Union-Find
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
