@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
+| [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0875-koko-eating-bananas) |
@@ -216,12 +218,23 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
+| [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
+| [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
+| [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
