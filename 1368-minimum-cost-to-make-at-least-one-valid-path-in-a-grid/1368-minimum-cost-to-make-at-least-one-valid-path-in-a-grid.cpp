@@ -1,35 +1,47 @@
 class Solution {
 public:
+    int n, m;
+
+    vector<int> rowDir = {0, 0, 1, -1};
+    vector<int> colDir = {1, -1, 0, 0};
+    
+    bool isValid(int r, int c) {
+        return (r >= 0 && c >= 0 && r < n && c < m);
+    }
+    
     int minCost(vector<vector<int>>& grid) {
-        int n = grid.size(), m = grid[0].size();
+        n = grid.size();
+        m = grid[0].size();
         
         vector<vector<int>> dist(n, vector<int>(m, INT_MAX));
 
-        priority_queue<pair<int, pair<int,int>>, vector<pair<int, pair<int,int>>>, greater<>> pq;
+        priority_queue<
+            pair<int, pair<int,int>>,
+            vector<pair<int, pair<int,int>>>,
+            greater<>
+        > pq;
         
         pq.push({0, {0,0}});
         dist[0][0] = 0;
-
-        vector<vector<int>> dirs = {{0,1}, {0,-1}, {1,0}, {-1,0}};
         
         while(!pq.empty()) {
             auto [cost, pos] = pq.top();
-            auto [x, y] = pos;
+            auto [r, c] = pos;
             pq.pop();
-
-            if(cost > dist[x][y]) continue;
+            
+            if(cost > dist[r][c]) continue;
             
             for(int i = 0; i < 4; i++) {
-                int nx = x + dirs[i][0];
-                int ny = y + dirs[i][1];
+                int nr = r + rowDir[i];
+                int nc = c + colDir[i];
                 
-                if(nx < 0 || ny < 0 || nx >= n || ny >= m) continue;
+                if(!isValid(nr, nc)) continue;
                 
-                int newCost = cost + (grid[x][y] == i+1 ? 0 : 1);
+                int newCost = cost + (grid[r][c] == i+1 ? 0 : 1);
                 
-                if(newCost < dist[nx][ny]) {
-                    dist[nx][ny] = newCost;
-                    pq.push({newCost, {nx, ny}});
+                if(newCost < dist[nr][nc]) {
+                    dist[nr][nc] = newCost;
+                    pq.push({newCost, {nr, nc}});
                 }
             }
         }
