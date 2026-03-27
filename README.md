@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
