@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 ## Array
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
