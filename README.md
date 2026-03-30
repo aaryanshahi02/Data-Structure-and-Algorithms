@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -252,10 +253,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
