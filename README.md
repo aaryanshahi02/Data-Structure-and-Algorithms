@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1321-restaurant-growth](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1393-capital-gainloss) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Sorting
 |  |
 | ------- |
