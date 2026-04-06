@@ -1,25 +1,14 @@
 class Solution {
 public:
-
-    vector<int> dp;
-
     int rob(vector<int>& nums) {
         int n = nums.size();
-        dp.resize(n + 1, -1);
-        return houseRob(nums, n);
-    }
 
-    int houseRob(vector<int>& nums, int n){
-        
+        vector<int> dp(n + 2, 0);
 
-        if (n==0) return 0;
-        if (n==1) return nums[0];
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i] = max(nums[i] + dp[i + 2], dp[i + 1]);
+        }
 
-        if(dp[n] != -1) return dp[n];
-
-        int rob = nums[n-1] + houseRob(nums, n-2);
-        int not_rob = 0 + houseRob(nums, n-1);
-
-        return dp[n] = max(rob, not_rob);
+        return dp[0];
     }
 };
