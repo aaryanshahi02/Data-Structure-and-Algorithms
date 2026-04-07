@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0279-perfect-squares) |
