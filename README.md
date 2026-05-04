@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
