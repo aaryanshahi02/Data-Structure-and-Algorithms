@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0178-rank-scores](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0196-delete-duplicate-emails) |
+| [0585-investments-in-2016](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0585-investments-in-2016) |
 | [1084-sales-analysis-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1084-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1174-immediate-food-delivery-ii) |
