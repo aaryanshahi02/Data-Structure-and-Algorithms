@@ -294,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
