@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
+| [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
+| [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0684-redundant-connection) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
