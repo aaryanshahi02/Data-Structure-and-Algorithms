@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -304,9 +306,11 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
