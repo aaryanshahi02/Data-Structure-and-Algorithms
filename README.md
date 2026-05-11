@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0741-cherry-pickup) |
