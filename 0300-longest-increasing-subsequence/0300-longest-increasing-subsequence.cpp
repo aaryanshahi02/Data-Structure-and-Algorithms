@@ -5,7 +5,7 @@ public:
         
 
         for(int i=1; i<nums.size(); i++){
-            for(int j=i-1; j>=0; j--){
+            for(int j=i; j>=0; j--){
 
                 if(nums[i] > nums[j]){
                     dp[i] = max(dp[i], 1 + dp[j]);
