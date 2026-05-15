@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 ## Tree
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1325-delete-leaves-with-a-given-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
