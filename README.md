@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0741-cherry-pickup](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
