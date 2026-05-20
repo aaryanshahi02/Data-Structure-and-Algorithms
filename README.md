@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0818-race-car](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0818-race-car) |
 | [0931-minimum-falling-path-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
+| [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 ## Database
 |  |
 | ------- |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Minimum Spanning Tree
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Greedy
 |  |
