@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+| [1626-best-team-with-no-conflicts](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1626-best-team-with-no-conflicts) |
 | [1631-path-with-minimum-effort](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-n-th-tribonacci-number](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1626-best-team-with-no-conflicts](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1626-best-team-with-no-conflicts) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
+| [1626-best-team-with-no-conflicts](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1626-best-team-with-no-conflicts) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Minimum Spanning Tree
