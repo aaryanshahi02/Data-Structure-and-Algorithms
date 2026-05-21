@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1626-best-team-with-no-conflicts) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Database
 |  |
 | ------- |
