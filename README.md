@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
+| [1035-uncrossed-lines](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1049-last-stone-weight-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0818-race-car](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0818-race-car) |
 | [0931-minimum-falling-path-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0931-minimum-falling-path-sum) |
+| [1035-uncrossed-lines](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
