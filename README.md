@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1143-longest-common-subsequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
