@@ -1,39 +1,39 @@
 class Solution {
     bool isValid(vector<int>& weights, int days, int capacity){
-        int dayCount = 1;
+        int day = 1;
         int load = 0;
 
         for(int w:weights){
             if(load+w > capacity){
-                dayCount++;
+                day++;
                 load = w;
             }else{
                 load += w;
             }
         }
-        return dayCount <= days;
+        return day <= days;
     }
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int low = 0;
-        int high = 0;
+        int s = 0;
+        int e = 0;
 
         for(int w:weights){
-            low = max(low, w);
-            high += w;
+            s = max(s, w);
+            e += w;
         }
 
-        int ans = high;
+        int ans = e;
 
-        while(low <= high){
-            int mid = low+(high-low)/2;
+        while(s <= e){
+            int mid = s+(e-s)/2;
 
             if(isValid(weights, days, mid)){
                 ans = mid;
-                high = mid-1;
+                e = mid-1;
             }
             else{
-                low = mid+1;
+                s = mid+1;
             }
         }
         return ans;
