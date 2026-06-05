@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
