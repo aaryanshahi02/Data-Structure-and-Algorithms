@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1345-jump-game-iv) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
