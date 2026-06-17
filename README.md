@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0072-edit-distance) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
