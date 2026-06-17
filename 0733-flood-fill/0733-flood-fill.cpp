@@ -1,20 +1,19 @@
 class Solution {
 public:
-
     int rowDir[4] = {-1, 1, 0, 0};
     int colDir[4] = {0, 0, -1, 1};
 
     bool isValid(int row, int col, int n, int m){
-        return (row >= 0 && row < n && col >= 0 && col < m);
+        return(row >= 0 && row < n && col >= 0 && col < m);
     }
 
-    void bfs(vector<vector<int>>& image, int sr, int sc, int ogColour, int newColour){
+    void bfs(vector<vector<int>>& image, int sr, int sc, int ogColor, int newColor){
         int n = image.size();
         int m = image[0].size();
 
         queue<pair<int, int>> q;
+        image[sr][sc] = newColor;
         q.push({sr, sc});
-        image[sr][sc] = newColour;
 
         while(!q.empty()){
             auto p = q.front();
@@ -23,24 +22,28 @@ public:
             int currRow = p.first;
             int currCol = p.second;
 
-            for(int i=0; i<4; i++){
+            for(int i = 0; i<4; i++){
                 int newRow = currRow + rowDir[i];
                 int newCol = currCol + colDir[i];
 
-                if(isValid(newRow, newCol, n, m) && image[newRow][newCol] == ogColour){
-                    image[newRow][newCol] = newColour;
+                if(isValid(newRow, newCol, n, m) && image[newRow][newCol] == ogColor){
+                    image[newRow][newCol] = newColor;
                     q.push({newRow, newCol});
                 }
             }
         }
     }
 
+
+
+
+
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int ogColour = image[sr][sc];
+        int ogColor = image[sr][sc];
 
-        if(ogColour == color) return image;
+        if(ogColor == color) return image;
 
-        bfs(image, sr, sc, ogColour, color);
+        bfs(image, sr, sc, ogColor, color);
 
         return image;
     }
