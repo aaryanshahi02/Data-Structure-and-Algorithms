@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0120-triangle) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
