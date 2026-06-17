@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0072-edit-distance](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
+| [0516-longest-palindromic-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
