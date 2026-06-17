@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
 | ------- |
