@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
