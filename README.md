@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0072-edit-distance](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
