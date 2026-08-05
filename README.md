@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
