@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
@@ -412,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
