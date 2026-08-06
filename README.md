@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
