@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int rowDir[4] = {-1, 1, 0, 0};
     int colDir[4] = {0, 0, -1, 1};
 
@@ -7,7 +8,7 @@ public:
         return(row >= 0 && row < n && col >= 0 && col < m);
     }
 
-    void bfs(vector<vector<int>>& image, int sr, int sc, int ogColor, int newColor){
+    void bfs(vector<vector<int>>& image, int sr, int sc, int newColor, int ogColor){
         int n = image.size();
         int m = image[0].size();
 
@@ -22,7 +23,7 @@ public:
             int currRow = p.first;
             int currCol = p.second;
 
-            for(int i = 0; i<4; i++){
+            for(int i=0; i<4; i++){
                 int newRow = currRow + rowDir[i];
                 int newCol = currCol + colDir[i];
 
@@ -32,18 +33,16 @@ public:
                 }
             }
         }
+
     }
-
-
-
-
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int ogColor = image[sr][sc];
 
-        if(ogColor == color) return image;
+        if(ogColor == color)
+            return image;
 
-        bfs(image, sr, sc, ogColor, color);
+        bfs(image, sr, sc, color, ogColor);
 
         return image;
     }
