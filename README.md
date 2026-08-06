@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
