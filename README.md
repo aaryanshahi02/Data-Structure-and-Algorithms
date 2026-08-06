@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
