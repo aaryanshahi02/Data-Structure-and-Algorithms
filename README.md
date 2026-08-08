@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -474,4 +477,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
