@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
+| [0118-pascals-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
