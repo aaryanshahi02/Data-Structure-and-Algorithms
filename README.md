@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0875-koko-eating-bananas) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0839-similar-string-groups) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
