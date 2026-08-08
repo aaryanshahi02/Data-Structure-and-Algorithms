@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
