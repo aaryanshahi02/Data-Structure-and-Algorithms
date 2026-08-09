@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -505,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
