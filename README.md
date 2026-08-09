@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0118-pascals-triangle) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0327-count-of-range-sum) |
