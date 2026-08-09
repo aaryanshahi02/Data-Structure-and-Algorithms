@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
