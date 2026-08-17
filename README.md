@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1929-concatenation-of-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2050-parallel-courses-iii](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/2050-parallel-courses-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -510,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/aaryanshahi02/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
